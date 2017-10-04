@@ -107,35 +107,43 @@
         android:background="@drawable/elementbg3">
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troisun"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
 
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troisdeux"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troistrois"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troisquatre"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troiscinq"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troissix"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troissept"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/troishuit"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
     </LinearLayout>
@@ -193,35 +201,43 @@
         android:background="@drawable/elementbg3">
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqun"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
 
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqdeux"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqtrois"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqquatre"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqcinq"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqsix"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqsept"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/cinqhuit"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
     </LinearLayout>
@@ -279,35 +295,43 @@
         android:background="@drawable/elementbg3">
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septun"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
 
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septdeux"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septtrois"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septquatre"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septcinq"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septsix"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septsept"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg4"></LinearLayout>
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/septhuit"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
     </LinearLayout>
