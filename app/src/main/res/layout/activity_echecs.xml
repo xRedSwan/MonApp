@@ -60,6 +60,7 @@
         android:background="@drawable/elementbg4">
         <LinearLayout
             android:layout_width="40dp"
+            android:id="@+id/deuxun"
             android:layout_height="match_parent"
             android:background="@drawable/elementbg3"></LinearLayout>
 
